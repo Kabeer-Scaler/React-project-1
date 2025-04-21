@@ -28,5 +28,5 @@ A simple **Movie Browsing Website** built with **React** and **Vite** that allow
 
 ---
 
-## 📂 Folder Structure
+
 
